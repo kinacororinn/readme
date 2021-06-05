@@ -43,5 +43,5 @@
 - IDE：Cloud9
 
 ## 使用素材
--unsplash：<https://unsplash.com/t/wallpapers>
+- unsplash：<https://unsplash.com/t/wallpapers>
 （その他は今のところ、何を使うか検討が立たない。）
